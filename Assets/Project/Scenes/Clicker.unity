@@ -760,6 +760,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1442195316}
     m_Modifications:
+    - target: {fileID: 879786890665694763, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
+      propertyPath: m_Type
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 879786890665694763, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ea065b238e78874a97544df534c56e9, type: 3}
+    - target: {fileID: 879786890665694763, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
+      propertyPath: m_FillAmount
+      value: 0.959
+      objectReference: {fileID: 0}
+    - target: {fileID: 879786890665694763, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
+      propertyPath: m_FillMethod
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 879786890665694763, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3106533483372805295, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
       propertyPath: m_Name
       value: ButtonClick
@@ -845,7 +865,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 8104549175737743715, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b4c76dfa2eb2a94c8c18747d8296f3a, type: 3}
